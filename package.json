@@ -1,0 +1,15 @@
+{
+  "name": "versa_bigbang",
+  "version": "1.0.0",
+  "description": "Versa Big Bang Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "versa_bigbang"
+  },
+  "author": "",
+  "license": "ISC"
+}
